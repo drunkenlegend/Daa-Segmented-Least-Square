@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Daa-Segmented-Least-Square/static/css/main.e93c9aba.chunk.css",
-    "main.js": "/Daa-Segmented-Least-Square/static/js/main.d6d75603.chunk.js",
-    "main.js.map": "/Daa-Segmented-Least-Square/static/js/main.d6d75603.chunk.js.map",
+    "main.js": "/Daa-Segmented-Least-Square/static/js/main.bdcd4997.chunk.js",
+    "main.js.map": "/Daa-Segmented-Least-Square/static/js/main.bdcd4997.chunk.js.map",
     "runtime-main.js": "/Daa-Segmented-Least-Square/static/js/runtime-main.e35a5d87.js",
     "runtime-main.js.map": "/Daa-Segmented-Least-Square/static/js/runtime-main.e35a5d87.js.map",
     "static/js/2.ba8aabe7.chunk.js": "/Daa-Segmented-Least-Square/static/js/2.ba8aabe7.chunk.js",
@@ -21,12 +21,12 @@
     "static/media/linefitting.11170905.gif": "/Daa-Segmented-Least-Square/static/media/linefitting.11170905.gif",
     "static/media/mayank.9b965bc7.png": "/Daa-Segmented-Least-Square/static/media/mayank.9b965bc7.png",
     "static/media/saksham.e31c5ff1.png": "/Daa-Segmented-Least-Square/static/media/saksham.e31c5ff1.png",
-    "static/media/srishti.6f094732.png": "/Daa-Segmented-Least-Square/static/media/srishti.6f094732.png"
+    "static/media/srishti.ef4e5947.png": "/Daa-Segmented-Least-Square/static/media/srishti.ef4e5947.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e35a5d87.js",
     "static/js/2.ba8aabe7.chunk.js",
     "static/css/main.e93c9aba.chunk.css",
-    "static/js/main.d6d75603.chunk.js"
+    "static/js/main.bdcd4997.chunk.js"
   ]
 }
